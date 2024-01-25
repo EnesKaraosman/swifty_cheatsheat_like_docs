@@ -2,7 +2,7 @@
 
 ## Perform asynchronous operation
 
-Asenkron çağrımlarımızı deneyebilmek için yardımcı bir fonksiyon oluşturalım;
+Lets create some utility functions to play with async operations;
 
 ```swift
 var dateFormatter: DateFormatter = {
